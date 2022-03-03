@@ -1,2 +1,2 @@
 # Demo
-Practice
+Practice setting up
